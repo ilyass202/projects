@@ -1,0 +1,18 @@
+mat-card {
+    padding: 10px;
+}
+.container_post{
+    margin:10px;
+    max-width: 60%;
+    padding-bottom: 30px;
+}
+.example-image{
+    width : 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+}
+.example-header-image{
+    background-size: cover;
+    background-image: url("https://www.bing.com/ck/a?!&&p=a2c78c80887be34b2d4aef56893c8c7815693f3fc59fa6f67ae82bcd36800c2bJmltdHM9MTc0NTI4MDAwMA&ptn=3&ver=2&hsh=4&fclid=330a1c1f-4370-6822-2620-0fdf42b769b2&u=a1L2ltYWdlcy9zZWFyY2g_cT1ndXRzJTIwaW1hZ2UmRk9STT1JUUZSQkEmaWQ9REMwQzVGNTg4RjhFNjIyOEQ4QjU3QjEwQzQ3MEFEODI2N0VBMzMwNg&ntb=1");
+}
